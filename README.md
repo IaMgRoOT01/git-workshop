@@ -1,24 +1,3 @@
-# README
+# Git Workshop
 
-this is a readme.
-
-this is a second line.
-
-this is a 3 func.
-
-this is 4
-
-this is 5
-
-
-this is 6
-
-
-s
-da
-sa
-d
-d
-a
-da
-d
+Everyone create a py file to print your name.
